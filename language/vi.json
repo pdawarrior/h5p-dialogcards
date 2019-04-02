@@ -46,7 +46,7 @@
             "label": "Văn bản thay thế cho hình ảnh"
           },
           {
-            "label": "File audion"
+            "label": "File audio"
           },
           {
             "label": "Gợi ý",
@@ -56,7 +56,7 @@
                 "description": "Gợi ý cho phần đầu hội thoại"
               },
               {
-                "label": "Tip for answer",
+                "label": "Gợi ý cho câu trả lời",
                 "description": "Gợi ý cho phần thứ 2 hội thoại"
               }
             ]
